@@ -1,0 +1,39 @@
+ul{
+    list-style: none;
+}
+li{
+    display: inline;
+    padding-right: 20px;
+    font-size: larger;
+}
+body{
+    text-align: center;
+    background-image: url("KFC_logo.svg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: x-large;
+}
+#image4{
+    height: 150px;
+    width: 150px;
+}
+#image5{
+    height: 150px;
+    width: 150px;
+}
+#image6{
+    height: 150px;
+    width: 150px;
+}
+#image3{
+    height: 250px;
+    width: 350px;
+}
+#div{
+    background-color: aliceblue;
+}
+.fa-facebook{
+height: 50px;
+width: 50px;
+color: blue;
+}

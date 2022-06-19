@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-image: url(KFC_logo.svg.png);
+    background-size: no-repeat;
+    font-size: xx-large;
+}
+img{
+    width: 500px;
+    height: 650px;
+}
+div{
+    background-color: aliceblue;
+}
+button{
+    background-color: aliceblue;
+    height: 150px;
+    width: 150px;
+    font-size: xx-large;
+}
+h1{
+    background-color: aliceblue;
+}
